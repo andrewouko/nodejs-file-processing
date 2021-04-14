@@ -1,0 +1,4480 @@
+[
+  {
+    "bank_name": "ABSA ",
+    "clearing_centre": 1,
+    "branches": {
+      "branch": [
+        {
+          "@attributes": {
+            "branch_name": "",
+            "branch_code": ""
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "BARCLAYS TORORO",
+            "branch_code": "UG011442"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "BARCLAYS ARCHBISHOP LUWUM STREET",
+            "branch_code": "UG012847"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Operations Branch",
+            "branch_code": "UG014247"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "BARCLAYS NTINDA",
+            "branch_code": "UG016947"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "bank_name": "ABSA",
+    "clearing_centre": 2,
+    "branches": {
+      "branch": [
+        {
+          "@attributes": {
+            "branch_name": "BARCLAYS KAWEMPE",
+            "branch_code": "UG010147"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "BARCLAYS PARKROYALE",
+            "branch_code": "UG010247"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "BARCLAYS BUGOLOBI A",
+            "branch_code": "UG010347"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "BARCLAYS GARDEN CITY",
+            "branch_code": "UG010447"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "BARCLAYS RUBAGA",
+            "branch_code": "UG010547"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "BARCLAYS NDEEBA",
+            "branch_code": "UG010647"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "BARCLAYS BANK JINJA Rd KAMPALA",
+            "branch_code": "UG010747"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "BARCLAYS MUKONO",
+            "branch_code": "UG010847"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "BARCLAYS OASIS MALL",
+            "branch_code": "UG010947"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "BARCLAYS ENTEBBE ROAD",
+            "branch_code": "UG011047"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "BARCLAYS NANSANA",
+            "branch_code": "UG011147"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Barclays Bank-Busia",
+            "branch_code": "UG011242"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "BARCLAYS SHAURI YAKO",
+            "branch_code": "UG011347"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "BARCLAYS GARDEN CITY PRESTIGE",
+            "branch_code": "UG011547"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "BARCLAYS MALABA",
+            "branch_code": "UG011642"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "BARCLAYS PARLIAMENT AVENUE",
+            "branch_code": "UG011747"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "BARCLAYS KASESE",
+            "branch_code": "UG011860"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "BARCLAYS NANKULABYE",
+            "branch_code": "UG011947"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "BARCLAYS HANNINGTON RD",
+            "branch_code": "UG012047"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "BARCLAYS NATETE",
+            "branch_code": "UG012147"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "BARCLAYS PRIME IMPLEX PLAZA",
+            "branch_code": "UG012247"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "BARCLAYS LUGOGO",
+            "branch_code": "UG012347"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "BARCLAYS MBALE",
+            "branch_code": "UG012442"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "BARCLAYS LIRA",
+            "branch_code": "UG012555"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "BARCLAYS ARUA",
+            "branch_code": "UG012654"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "BARCLAYS IGANGA",
+            "branch_code": "UG012741"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "BARCLAYS MASINDI",
+            "branch_code": "UG012955"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "BARCLAYS HOIMA",
+            "branch_code": "UG013055"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "BARCLAYS MASAKA",
+            "branch_code": "UG013134"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "BARCLAYS GULU",
+            "branch_code": "UG013255"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "BARCLAYS KABALE",
+            "branch_code": "UG013361"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "BARCLAYS KAMPALA RD",
+            "branch_code": "UG013447"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "BARCLAYS ABAITA ABABIRI",
+            "branch_code": "UG013547"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "BARCLAYS TANKHILL PARADE",
+            "branch_code": "UG013647"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "BARCLAYS RWENZORI COURTS",
+            "branch_code": "UG013747"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "BARCLAYS HEAD OFFICE",
+            "branch_code": "UG013847"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "BARCLAYS URA",
+            "branch_code": "UG013947"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "BARCLAYS MBARARA",
+            "branch_code": "UG014062"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "BARCLAYS ENTEBBE TOWN",
+            "branch_code": "UG014147"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "BARCLAYS FORTPORTAL",
+            "branch_code": "UG014360"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "BARCLAYS JINJA TOWN",
+            "branch_code": "UG014741"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "BARCLAYS OWINO",
+            "branch_code": "UG014847"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "BARCLAYS KOBOKO",
+            "branch_code": "UG014954"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "BARCLAYS OLD KAMPALA",
+            "branch_code": "UG015047"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "BARCLAYS KIREKA",
+            "branch_code": "UG015347"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "BARCLAYS LUGAZI",
+            "branch_code": "UG015541"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "BARCLAYS BANK LUGAZI",
+            "branch_code": "UG015547"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "BARCLAYS KASANGA",
+            "branch_code": "UG015647"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "BARCLAYS WANDEGEYA",
+            "branch_code": "UG015747"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "BARCLAYS KAMWOKYA",
+            "branch_code": "UG015847"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "BARCLAYS LUBOWA",
+            "branch_code": "UG016147"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "BARCLAYS KATWE",
+            "branch_code": "UG016447"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "BARCLAYS BUGOLOBI B",
+            "branch_code": "UG017047"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "BARCLAYS KITGUM",
+            "branch_code": "UG017355"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "BARCLAYS AIRPORT",
+            "branch_code": "UG017547"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "BARCLAYS ISHAKA",
+            "branch_code": "UG017762"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "BARCLAYS SOROTI",
+            "branch_code": "UG018042"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "BARCLAYS BUSIA",
+            "branch_code": "UG018442"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "bank_name": "",
+    "clearing_centre": 3,
+    "branches": {
+      "branch": [
+        {
+          "@attributes": {
+            "branch_name": "",
+            "branch_code": ""
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "",
+            "branch_code": ""
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "",
+            "branch_code": ""
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "",
+            "branch_code": ""
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "",
+            "branch_code": ""
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "",
+            "branch_code": ""
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "",
+            "branch_code": ""
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "",
+            "branch_code": ""
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "",
+            "branch_code": ""
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "",
+            "branch_code": ""
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "",
+            "branch_code": ""
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "",
+            "branch_code": ""
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "",
+            "branch_code": ""
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "",
+            "branch_code": ""
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "",
+            "branch_code": ""
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "",
+            "branch_code": ""
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "",
+            "branch_code": ""
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "",
+            "branch_code": ""
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "",
+            "branch_code": ""
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "",
+            "branch_code": ""
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "",
+            "branch_code": ""
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "",
+            "branch_code": ""
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "",
+            "branch_code": ""
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "",
+            "branch_code": ""
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "",
+            "branch_code": ""
+          }
+        }
+      ]
+    }
+  },
+  {
+    "bank_name": "BANK OF BARODA",
+    "clearing_centre": 4,
+    "branches": {
+      "branch": [
+        {
+          "@attributes": {
+            "branch_name": "",
+            "branch_code": ""
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "BANK OF BARODA JINJA",
+            "branch_code": "UG020141"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "BANK OF BARODA MBALE",
+            "branch_code": "UG020142"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "BANK OF BARODA KAMPALA MAIN",
+            "branch_code": "UG020147"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Bank of Baroda-Lira Branch",
+            "branch_code": "UG020155"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "BANK OF BARODA MBARARA",
+            "branch_code": "UG020162"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "BANK OF BARODA IGANGA",
+            "branch_code": "UG020241"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "BANK OF BARODA RAILWAY STATION",
+            "branch_code": "UG020247"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "BANK OF BARODA KANSANGA",
+            "branch_code": "UG020347"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Bank of Baroda-Kawempe Branch",
+            "branch_code": "UG020447"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Bank of Baroda-Mukono Branch",
+            "branch_code": "UG020547"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Owino Market",
+            "branch_code": "UG020647"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Jinja Branch",
+            "branch_code": "UG020741"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Iganga Branch",
+            "branch_code": "UG020841"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Mbale Branch",
+            "branch_code": "UG020942"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Mbarara Branch",
+            "branch_code": "UG021062"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Lira Branch",
+            "branch_code": "UG021155"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Kabale Branch",
+            "branch_code": "UG021261"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Entebbe Branch",
+            "branch_code": "UG021347"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Industrial Area Branch",
+            "branch_code": "UG021447"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Kololo Branch",
+            "branch_code": "UG021547"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "BANK OF BARODA -Lugazi Branch",
+            "branch_code": "UG021647"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "bank_name": "STANBIC BANK UGANDA",
+    "clearing_centre": 5,
+    "branches": {
+      "branch": [
+        {
+          "@attributes": {
+            "branch_name": "",
+            "branch_code": ""
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "STANBIC IBC",
+            "branch_code": "UG040147"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "STANBIC KAMPALA",
+            "branch_code": "UG040247"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "STANBIC LUGOGO",
+            "branch_code": "UG040347"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "STANBIC IPS",
+            "branch_code": "UG040447"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "STANBIC OPC",
+            "branch_code": "UG040547"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "STANBIC GARDEN CITY",
+            "branch_code": "UG040647"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "STANBIC JINJA ROAD",
+            "branch_code": "UG040747"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "STANBIC PADER",
+            "branch_code": "UG040755"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "STANBIC CITY",
+            "branch_code": "UG040847"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "STANBIC KIREKA",
+            "branch_code": "UG040947"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "STANBIC KATWE",
+            "branch_code": "UG041047"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "STANBIC INLAND REVENUE",
+            "branch_code": "UG041147"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "STANBIC NAKAWA",
+            "branch_code": "UG041247"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "STANBIC KYAMBOGO",
+            "branch_code": "UG041347"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "STANBIC NAKIVUBO",
+            "branch_code": "UG041447"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "STANBIC WANDEGEYA",
+            "branch_code": "UG041547"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "STANBIC MAKERERE UNIVERSITY",
+            "branch_code": "UG041647"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "STANBIC ENTEBBE MAIN",
+            "branch_code": "UG041747"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "STANBIC ENTEBBE AIRPORT",
+            "branch_code": "UG041847"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "STANBIC MUKONO",
+            "branch_code": "UG041947"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "STANBIC LUWERO",
+            "branch_code": "UG042047"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "STANBIC MPIGI",
+            "branch_code": "UG042147"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "STANBIC MITYANA",
+            "branch_code": "UG042247"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "STANBIC MUBENDE",
+            "branch_code": "UG042347"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "STANBIC LUGAZI",
+            "branch_code": "UG042447"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "STANBIC KIBOGA",
+            "branch_code": "UG042547"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "STANBIC JINJA MAIN",
+            "branch_code": "UG042641"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "STANBIC IGANGA",
+            "branch_code": "UG042741"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "STANBIC KAMULI",
+            "branch_code": "UG042841"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "STANBIC TORORO",
+            "branch_code": "UG042942"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "STANBIC BUSIA",
+            "branch_code": "UG043042"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "STANBIC MALABA",
+            "branch_code": "UG043142"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "STANBIC BANK MBALE BRANCH",
+            "branch_code": "UG043241"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "STANBIC MBALE",
+            "branch_code": "UG043242"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "STANBIC KAPCHORWA",
+            "branch_code": "UG043342"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "STANBIC PALLISA",
+            "branch_code": "UG043442"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "STANBIC MOROTO",
+            "branch_code": "UG043542"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "STANBIC SOROTI",
+            "branch_code": "UG043642"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "STANBIC KUMI",
+            "branch_code": "UG043742"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "STANBIC-Kumi Branch",
+            "branch_code": "UG043747"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "STANBIC MBARARA",
+            "branch_code": "UG043862"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "STANBIC IBANDA",
+            "branch_code": "UG043962"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "STANBIC ISHAKA",
+            "branch_code": "UG044062"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "STANBIC BUSHENYI",
+            "branch_code": "UG044162"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "STANBIC NTUNGAMO",
+            "branch_code": "UG044262"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "STANBIC KABWOHE",
+            "branch_code": "UG044362"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "STANBIC MASAKA",
+            "branch_code": "UG044434"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "STANBIC KYOTERA",
+            "branch_code": "UG044534"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Lyantonde Branch",
+            "branch_code": "UG044634"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "STANBIC LYANTONDE",
+            "branch_code": "UG044662"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "STANBIC KISORO",
+            "branch_code": "UG044761"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "STANBIC BANK FREEDOM CITY BRANCH",
+            "branch_code": "UG044799"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "STANBIC KABALE",
+            "branch_code": "UG044861"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "STANBIC RUKUNGIRI",
+            "branch_code": "UG044961"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "STANBIC KIHIHI",
+            "branch_code": "UG045061"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "STANBIC KALANGALA",
+            "branch_code": "UG045134"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "STANBIC KOTIDO",
+            "branch_code": "UG045242"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "STANBIC FORTPORTAL",
+            "branch_code": "UG045360"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "STANBIC KASESE",
+            "branch_code": "UG045460"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "STANBIC BUDIBUGYO",
+            "branch_code": "UG045560"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "STANBIC MASINDI",
+            "branch_code": "UG045655"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "STANBIC HOIMA",
+            "branch_code": "UG045755"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "STANBIC BWAMIRAMIRA",
+            "branch_code": "UG045847"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "STANBIC GULU",
+            "branch_code": "UG045955"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "STANBIC APAC",
+            "branch_code": "UG046055"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "STANBIC LIRA",
+            "branch_code": "UG046155"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "STANBIC ARUA",
+            "branch_code": "UG046254"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "STANBIC NEBBI",
+            "branch_code": "UG046354"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "STANBIC MOYO",
+            "branch_code": "UG046454"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "STANBIC BANK-Pakwach Branch",
+            "branch_code": "UG046547"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "STANBIC PAKWACH",
+            "branch_code": "UG046555"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "STANBIC ADUMANI",
+            "branch_code": "UG046654"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "STANBIC KITGUM",
+            "branch_code": "UG046755"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Kinyara Branch",
+            "branch_code": "UG046841"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "STANBIC KINYARA",
+            "branch_code": "UG046855"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Mulago Branch",
+            "branch_code": "UG046947"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "STANBIC KIGUMBA",
+            "branch_code": "UG047055"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "STANBIC KOBOKO",
+            "branch_code": "UG047254"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "STANBIC KAKIRA",
+            "branch_code": "UG047341"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "STANBIC-Kakira Branch",
+            "branch_code": "UG047347"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "STANBIC MUTUKHULA",
+            "branch_code": "UG047434"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Stanbic William Street",
+            "branch_code": "UG047547"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Nakasero Branch",
+            "branch_code": "UG047647"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Ntinda Branch",
+            "branch_code": "UG047747"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Stanbic Bank Forest Mall",
+            "branch_code": "UG047847"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Buliisa Branch",
+            "branch_code": "UG047955"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Nateete Branch",
+            "branch_code": "UG048147"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Industrial Area Branch",
+            "branch_code": "UG048347"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Bugolobi Branch",
+            "branch_code": "UG048447"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Kabalagala Branch",
+            "branch_code": "UG048547"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Aponye Mall Branch",
+            "branch_code": "UG048647"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Acacia Branch",
+            "branch_code": "UG048747"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Kawempe Branch",
+            "branch_code": "UG048847"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Freedom City Branch",
+            "branch_code": "UG049947"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "bank_name": "DFCU BANK",
+    "clearing_centre": 6,
+    "branches": {
+      "branch": [
+        {
+          "@attributes": {
+            "branch_name": "",
+            "branch_code": ""
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "DFCU IMPALA",
+            "branch_code": "UG050147"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "DFCU WILLIAM STREET",
+            "branch_code": "UG050247"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "DFCU MASAKA",
+            "branch_code": "UG050334"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "DFCU ARUA",
+            "branch_code": "UG050454"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "DFCU Bank, LIRA branch",
+            "branch_code": "UG050547"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "DFCU LIRA",
+            "branch_code": "UG050555"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "DFCU ACACIA AVENUE",
+            "branch_code": "UG050647"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "DFCU JINJA ROAD",
+            "branch_code": "UG050747"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "DFCU MAKERERE UNIVERSITY",
+            "branch_code": "UG050847"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "DFCU BANK - GULU BRANCH",
+            "branch_code": "UG050947"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "DFCU GULU",
+            "branch_code": "UG050955"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "DFCU NSAMBYA",
+            "branch_code": "UG051047"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "DFCU MBALE",
+            "branch_code": "UG051142"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "DFCU Bank-Mbarara Branch",
+            "branch_code": "UG051262"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "DFCU BANK-Hoima Branch",
+            "branch_code": "UG051347"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "DFCU BANK Hoima Branch",
+            "branch_code": "UG051355"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "DFCU Bank-Hoima Branch",
+            "branch_code": "UG051360"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "DFCU KITGUM",
+            "branch_code": "UG051455"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "DFCU-Kawempe Branch",
+            "branch_code": "UG051547"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "DFCU BANK-Abim Branch",
+            "branch_code": "UG051655"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "DFCU BANK-Lugogo Branch",
+            "branch_code": "UG051747"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "DFCU BANK-Ntinda Branch",
+            "branch_code": "UG051847"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "DFCU-Entebbe Rd Branch",
+            "branch_code": "UG051947"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "DFCU Naalya Branch",
+            "branch_code": "UG052047"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "DFCU Agago Branch",
+            "branch_code": "UG052155"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "DFCU Wilson Lane Branch",
+            "branch_code": "UG052247"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "DFCU Ben Kiwanuka Branch",
+            "branch_code": "UG052347"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "DFCU Ishaka Branch",
+            "branch_code": "UG052462"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "DFCU Mukono Branch",
+            "branch_code": "UG052547"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "DFCU Tororo Branch",
+            "branch_code": "UG052642"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "DFCU Elegu Branch",
+            "branch_code": "UG052755"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "DFCU Bank - Natete Branch",
+            "branch_code": "UG052847"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "DFCU Bank - Pallisa Branch",
+            "branch_code": "UG052942"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "DFCU Dank - Kampala",
+            "branch_code": "UG052947"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "DFCU Bank - Paidah Branch",
+            "branch_code": "UG053054"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "DFCU Bank - Bwaise Branch",
+            "branch_code": "UG053147"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "DFCU Bank - Nakivubo Branch",
+            "branch_code": "UG053247"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "DFCU Bank-Suncity Branch",
+            "branch_code": "UG053547"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "DFCU BANK-Kyadondo Rd(Head Office)",
+            "branch_code": "UG053647"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "DFCU BANK-kkubbo 11 Branch",
+            "branch_code": "UG053747"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "DFCU BANK-6th Street",
+            "branch_code": "UG053847"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "DFCU BANK-Kiseka Branch",
+            "branch_code": "UG053947"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "DFCU PADER",
+            "branch_code": "UG054055"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "DFCU BUGOLOBI",
+            "branch_code": "UG054147"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "DFCU Bank-Kikubo Branch",
+            "branch_code": "UG054247"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "DFCU Bank-Owino Branch",
+            "branch_code": "UG054347"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "DFCU Bank-Nakasero Branch",
+            "branch_code": "UG054447"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "DFCU Bank-Ndeeba Branch",
+            "branch_code": "UG054547"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "DFCU SCHINDIA RD. BRANCH",
+            "branch_code": "UG054641"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "DFCU Bank-Dokolo Branch",
+            "branch_code": "UG054755"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "DFCU Bank-Isingiro Branch",
+            "branch_code": "UG054862"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "DFCU BANK-Ntinda 11",
+            "branch_code": "UG054947"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "DFCU BANK-Entebbe",
+            "branch_code": "UG055047"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "DFCU BANK-Kireka Branch",
+            "branch_code": "UG055147"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "DFCU BANK- Kyambogo University",
+            "branch_code": "UG055247"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "DFCU BANK-Iganga",
+            "branch_code": "UG055341"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "DFCU BANK-Kabale",
+            "branch_code": "UG055461"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "DFCU BANK-Soroti",
+            "branch_code": "UG055542"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "DFCU BANK-Abayita Ababiri",
+            "branch_code": "UG055647"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "DFCU BANK-Ntungamo Branch",
+            "branch_code": "UG055762"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "DFCU BANK-Busia Branch",
+            "branch_code": "UG055842"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "DFCU Bank",
+            "branch_code": "UG055934"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "DFCU BANK-Kyengera Branch",
+            "branch_code": "UG055947"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "DFCU BANK-Luweero Branch",
+            "branch_code": "UG056047"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "DFCU BANK-Rushere Branch",
+            "branch_code": "UG056162"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "DFCU Ibanda Branch",
+            "branch_code": "UG056262"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "DFCU BANK-Lyantonde Branch",
+            "branch_code": "UG056434"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "DFCU BANK-Luwum Street",
+            "branch_code": "UG056547"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "DFCU BANK-Kampala Road",
+            "branch_code": "UG056647"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "DFCU BANK-Nakivubo Branch",
+            "branch_code": "UG056747"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "DFCU Bank",
+            "branch_code": "UG056947"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "bank_name": "TROPICAL BANK",
+    "clearing_centre": 7,
+    "branches": {
+      "branch": [
+        {
+          "@attributes": {
+            "branch_name": "",
+            "branch_code": ""
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "TROPICAL BANK Kampala Branch",
+            "branch_code": "UG060141"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "TROPICAL AFRICA KAMPALA",
+            "branch_code": "UG060147"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "TROPICAL AFRICA JINJA",
+            "branch_code": "UG060241"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Tropical Bank Jinja Branch",
+            "branch_code": "UG060242"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "TROPICAL AFRICA MASAKA",
+            "branch_code": "UG060334"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "TROPICAL AFRICA NTINDA",
+            "branch_code": "UG060447"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "TROPICAL AFRICA NAKIVUBO",
+            "branch_code": "UG060547"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Tropical Bank-Kansanga Branch",
+            "branch_code": "UG060647"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Kawempe Branch",
+            "branch_code": "UG060747"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "TROPICAL-Oasis Mall Branch",
+            "branch_code": "UG060847"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Kakira Branch",
+            "branch_code": "UG060941"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "TROPICAL-Katwe Branch",
+            "branch_code": "UG061047"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Kaliro Branch",
+            "branch_code": "UG061141"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Mbale Branch",
+            "branch_code": "UG061242"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "TROPICAL AFRICA-Mbarara Branch",
+            "branch_code": "UG061341"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "bank_name": "STANDARD CHARTERED BANK UGANDA",
+    "clearing_centre": 8,
+    "branches": {
+      "branch": [
+        {
+          "@attributes": {
+            "branch_name": "",
+            "branch_code": ""
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "STANDARD CHARTERED KAMPALA HOFFICE",
+            "branch_code": "UG080147"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "STANDARD CHARTERED KAMPALA SPEKE RD",
+            "branch_code": "UG080247"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "STANDARD CHARTERED KAMPALA CITY",
+            "branch_code": "UG080347"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "STANDARD CHARTERED MBALE",
+            "branch_code": "UG080442"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "STANDARD CHARTERED MBARARA",
+            "branch_code": "UG080562"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "STANDARD CHARTERED JINJA",
+            "branch_code": "UG080641"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "STANDARD CHARTERED LUGOGO",
+            "branch_code": "UG080747"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "STANDARD CHARTERED GARDEN CITY",
+            "branch_code": "UG080847"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "STANDARD CHARTERED KIKUUBO",
+            "branch_code": "UG080947"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "STANDARD CHARTERED NTINDA",
+            "branch_code": "UG081047"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "STANDARD CHARTERED GULU",
+            "branch_code": "UG081155"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "STANDARD CHARTERED Ndeeba Branch",
+            "branch_code": "UG081247"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "STANDARD CHARTERFreedom City Branch",
+            "branch_code": "UG081347"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "bank_name": "ORIENT BANK UGANDA",
+    "clearing_centre": 9,
+    "branches": {
+      "branch": [
+        {
+          "@attributes": {
+            "branch_name": "",
+            "branch_code": ""
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "ORIENT-Head Office",
+            "branch_code": "UG110047"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "ORIENT MAIN",
+            "branch_code": "UG110147"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "ORIENT JINJA",
+            "branch_code": "UG110241"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "ORIENT NKRUMAH ROAD",
+            "branch_code": "UG110447"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "ORIENT WILLIAM STREET",
+            "branch_code": "UG110547"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "ORIENT ENTEBBE TOWN",
+            "branch_code": "UG110647"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "ORIENT ENTEBBE AIRPORT",
+            "branch_code": "UG110747"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "ORIENT KAWEMPE",
+            "branch_code": "UG110847"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "ORIENT MBALE",
+            "branch_code": "UG110942"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "ORIENT BANK GULU BRANCH",
+            "branch_code": "UG111055"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "ORIENT BANK KOLOLO BRANCH",
+            "branch_code": "UG111147"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Jinja City Branch",
+            "branch_code": "UG111241"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "ORIENT-Jinja Town Branch",
+            "branch_code": "UG111255"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Garden City Branch",
+            "branch_code": "UG111347"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Kabalagala Branch",
+            "branch_code": "UG111447"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Arua Branch",
+            "branch_code": "UG111554"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Kiseka Branch",
+            "branch_code": "UG111647"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "ORIENT BANK-Ntinda Branch",
+            "branch_code": "UG111747"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "ORIENT BANK Gulu High Way",
+            "branch_code": "UG111855"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "ORIENT-Kikuubo Branch",
+            "branch_code": "UG111947"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "ORIENT-Katwe Branch",
+            "branch_code": "UG112147"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "ORIENT-Makerere Branch",
+            "branch_code": "UG112247"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "ORIENT-Acacia Branch",
+            "branch_code": "UG112347"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "ORIENT BAN- Bweyogerere",
+            "branch_code": "UG112547"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "ORIENT BANK MBARARA",
+            "branch_code": "UG112662"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "bank_name": "BANK OF AFRICA",
+    "clearing_centre": 10,
+    "branches": {
+      "branch": [
+        {
+          "@attributes": {
+            "branch_name": "",
+            "branch_code": ""
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "BANK OF AFRICA 24 JINJA ROAD",
+            "branch_code": "UG130147"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "BANK OF AFRICA EQUATORIA",
+            "branch_code": "UG130247"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "BANK OF AFRICA JINJA",
+            "branch_code": "UG130341"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "BANK OF AFRICA HEAD OFFICE",
+            "branch_code": "UG130447"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "BANK OF AFRICATHE PARK",
+            "branch_code": "UG130547"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "BANK OF AFRICA NDEEBA MINI",
+            "branch_code": "UG130647"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "BANK OF AFRICA KAMPALA ROAD",
+            "branch_code": "UG130747"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "BANK OF AFRICA ARUA",
+            "branch_code": "UG130847"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Bank of Africa- Arua Branch",
+            "branch_code": "UG130854"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "BANK OF AFRICA NTINDA",
+            "branch_code": "UG130947"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "BANK OF AFRICA MBALE",
+            "branch_code": "UG131042"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "BANK OF AFRIC ALIRA",
+            "branch_code": "UG131155"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "BANK OF AFRICA MBARARA",
+            "branch_code": "UG131262"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Bank of Africa- Wandegeya branch",
+            "branch_code": "UG131347"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Entebbe Branch",
+            "branch_code": "UG131447"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Fort Portal Branch",
+            "branch_code": "UG131555"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "BANK OF AFRICA FORT PORTAL",
+            "branch_code": "UG131560"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Nakivubo Branch",
+            "branch_code": "UG131647"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Mukono Branch",
+            "branch_code": "UG131747"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "BANK OF AFRICA UGANDA GULU BRANCH",
+            "branch_code": "UG131855"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Kabalagala Branch",
+            "branch_code": "UG131947"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "BANK OF AFRICA UG OASIS",
+            "branch_code": "UG132047"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Kawempe Branch",
+            "branch_code": "UG132147"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Kololo Branch",
+            "branch_code": "UG132247"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Luzira Branch",
+            "branch_code": "UG132347"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Nansana Branch",
+            "branch_code": "UG132447"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Nateete Branch",
+            "branch_code": "UG132547"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Namasuba Branch",
+            "branch_code": "UG132647"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Hoima Branch",
+            "branch_code": "UG132755"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Patongo Branch",
+            "branch_code": "UG132855"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Rubirizi Branch",
+            "branch_code": "UG132962"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Business Centre",
+            "branch_code": "UG133047"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Kalongo Branch",
+            "branch_code": "UG133155"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Biira Branch",
+            "branch_code": "UG133247"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Jinja Clive Branch",
+            "branch_code": "UG133341"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Masaka Branch",
+            "branch_code": "UG133434"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Bank on Wheels",
+            "branch_code": "UG133555"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "bank_name": "CENTENARY BANK",
+    "clearing_centre": 11,
+    "branches": {
+      "branch": [
+        {
+          "@attributes": {
+            "branch_name": "",
+            "branch_code": ""
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "CENTENARY LIRA",
+            "branch_code": "UG161055"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "CENTENARY KASESE",
+            "branch_code": "UG161560"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "CENTENARY NANSANA",
+            "branch_code": "UG161647"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "CENTENARY KAWEMPE",
+            "branch_code": "UG161747"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "CENTENARY KAWUKU",
+            "branch_code": "UG161847"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Koboko Branch",
+            "branch_code": "UG161954"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "CENTENARY ARUA",
+            "branch_code": "UG162054"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "CENTENARY NAKIVUBO ROAD",
+            "branch_code": "UG162147"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "CENTENARY CORPORATE",
+            "branch_code": "UG162247"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Centenary Bank-Bwaise Branch",
+            "branch_code": "UG162447"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "CENTENARY NAMIREMBE ROAD",
+            "branch_code": "UG162547"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Najjanankumbi Branch",
+            "branch_code": "UG162647"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Kikuubo Branch",
+            "branch_code": "UG162747"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "CENTENARY NATEETE",
+            "branch_code": "UG162847"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Lugogo Branch",
+            "branch_code": "UG162947"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "CENTENARY ENTEBBE ROAD",
+            "branch_code": "UG163047"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "CENTENARY MBALE",
+            "branch_code": "UG163142"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Centenary Bank-Kapchorwa",
+            "branch_code": "UG163242"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Kabalagala Branch",
+            "branch_code": "UG163347"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "CENTENARY WAKISO",
+            "branch_code": "UG163447"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "CENTENARY WOBULENZI",
+            "branch_code": "UG163547"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "CENTENARY BANK NTINDA",
+            "branch_code": "UG163647"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Mapeera Branch",
+            "branch_code": "UG163747"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Rubaga Branch",
+            "branch_code": "UG163847"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "CENTENARY KAYABWE",
+            "branch_code": "UG163947"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "CENTENARY MASAKA",
+            "branch_code": "UG164034"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Kayunga Branch",
+            "branch_code": "UG164147"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "CENTENARY MUKONO",
+            "branch_code": "UG164247"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "CENTENARY BANK JINJA",
+            "branch_code": "UG164341"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Centenary Bank Jinja Branch",
+            "branch_code": "UG164347"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Kireka Branch",
+            "branch_code": "UG164447"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "CENTENARY SOROTI",
+            "branch_code": "UG164542"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "CENTENARY BUGIRI",
+            "branch_code": "UG164642"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Kumi Branch",
+            "branch_code": "UG164742"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Iganga Branch",
+            "branch_code": "UG164841"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Makerere Branch",
+            "branch_code": "UG164947"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "CENTENARY MBARARA",
+            "branch_code": "UG165062"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "CENTENARY RUKUNGIRI",
+            "branch_code": "UG165162"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "CENTENARY IBANDA",
+            "branch_code": "UG165262"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Centenary Bank-Ntungamo",
+            "branch_code": "UG165362"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "CENTENARY-Kanungu Branch",
+            "branch_code": "UG165442"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Kanungu Branch",
+            "branch_code": "UG165462"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "CENTENARY FORTPORTAL",
+            "branch_code": "UG165560"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "CENTENARY KYENJONJO",
+            "branch_code": "UG165660"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Isingiro Branch",
+            "branch_code": "UG165762"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Kisoro Branch",
+            "branch_code": "UG165861"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Mpigi Branch",
+            "branch_code": "UG165947"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "CENTENARY KYOTERA",
+            "branch_code": "UG166034"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Lyantonde Branch",
+            "branch_code": "UG166162"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Kotido Branch",
+            "branch_code": "UG166242"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Moroto Branch",
+            "branch_code": "UG166342"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Kamuli Branch",
+            "branch_code": "UG166441"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "CENTENARY ISHAKA",
+            "branch_code": "UG166562"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "CENTENARY BANK - KAGADI BRANCH",
+            "branch_code": "UG166655"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Kagadi Branch",
+            "branch_code": "UG166660"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Paida Branch",
+            "branch_code": "UG166754"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Bwera Branch",
+            "branch_code": "UG166860"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "CENTENARY MBARARA CORPORATE",
+            "branch_code": "UG166962"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "CENTENARY KABALE",
+            "branch_code": "UG167061"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Pallisa Branch",
+            "branch_code": "UG167142"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "CENTENARY KASESE",
+            "branch_code": "UG167255"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Bundibugyo Branch",
+            "branch_code": "UG167360"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "CENTENARY KITGUM",
+            "branch_code": "UG167455"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "CENTENARY GULU",
+            "branch_code": "UG167555"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "CENTENARY NEBBI",
+            "branch_code": "UG167654"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Adumani Branch",
+            "branch_code": "UG167755"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Apac Branch",
+            "branch_code": "UG167955"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "CENTENARY HOIMA",
+            "branch_code": "UG168047"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Centenary Bank-Masindi Branch",
+            "branch_code": "UG168147"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "CENTENARY BANK- Mapeera Platinum",
+            "branch_code": "UG168247"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "CENTENARY HEAD OFFICE",
+            "branch_code": "UG168547"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Mubende Branch",
+            "branch_code": "UG168947"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "CENTENARY MITYANA",
+            "branch_code": "UG169047"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "CENTENARY KIBOGA",
+            "branch_code": "UG169147"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "CENTENARY TORORO",
+            "branch_code": "UG169542"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "bank_name": "CAIRO INTERNATIONAL BANK",
+    "clearing_centre": 12,
+    "branches": {
+      "branch": [
+        {
+          "@attributes": {
+            "branch_name": "",
+            "branch_code": ""
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "CAIRO INTERNATIONAL KAMPALA",
+            "branch_code": "UG180147"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "CAIRO INTERNATIONAL KIKUUBO",
+            "branch_code": "UG180247"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Bugolobi Branch",
+            "branch_code": "UG180347"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Quality Hill Branch",
+            "branch_code": "UG180447"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Bweyogerere Branch",
+            "branch_code": "UG180547"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Kapeeka branch",
+            "branch_code": "UG180647"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "CAIRO-Spring Road",
+            "branch_code": "UG180747"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "CAIRO BANK MBARARA",
+            "branch_code": "UG180762"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "bank_name": "DIAMOND TRUST BANK",
+    "clearing_centre": 13,
+    "branches": {
+      "branch": [
+        {
+          "@attributes": {
+            "branch_name": "",
+            "branch_code": ""
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "DTB-Head Office Branch",
+            "branch_code": "UG190047"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "DTB-Kampala Road Main Branch",
+            "branch_code": "UG190147"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "DTB-Kikuubo Branch",
+            "branch_code": "UG190247"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "DTB-Old Kampala Branch",
+            "branch_code": "UG190347"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "DTB-Wandegeya Branch",
+            "branch_code": "UG190447"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "DTB-Kitintale Branch",
+            "branch_code": "UG190547"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "DTB-Jinja Branch",
+            "branch_code": "UG190641"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "DAIMOND TRUST BANK JINJA RD",
+            "branch_code": "UG190647"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "DTB-Ntinda Branch",
+            "branch_code": "UG190747"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Arua Branch",
+            "branch_code": "UG190854"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "DTB-Industrial Area Branch",
+            "branch_code": "UG190947"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "DTB-Busia Branch",
+            "branch_code": "UG191047"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "DTB-Ndeeba Branch",
+            "branch_code": "UG191147"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "DTB-Lira Branch",
+            "branch_code": "UG191247"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "DTB-Malaba Branch",
+            "branch_code": "UG191347"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "DTB-Nakumatt Oasis Mall Branch",
+            "branch_code": "UG191447"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Equatorial Branch",
+            "branch_code": "UG191547"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Masaka Branch",
+            "branch_code": "UG191634"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Mbarara Branch",
+            "branch_code": "UG191762"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Mbale Branch",
+            "branch_code": "UG191842"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Naalya Branch",
+            "branch_code": "UG191947"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "DTB-Nateete Branch",
+            "branch_code": "UG192047"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "DTB-Nakivubo Branch",
+            "branch_code": "UG192147"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "DTB-Kyengera Branch",
+            "branch_code": "UG192247"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "DTB-Freedom City Branch",
+            "branch_code": "UG192347"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "DTB-George Street Branch",
+            "branch_code": "UG192447"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "DTB-Kamwokya Branch",
+            "branch_code": "UG192547"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "DTB-Bwaise Branch",
+            "branch_code": "UG192647"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Victoria Mall",
+            "branch_code": "UG192747"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "DTB-Katwe Branch",
+            "branch_code": "UG192847"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "DTB-Nansana Branch",
+            "branch_code": "UG193047"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "DTB-Isbat Branch",
+            "branch_code": "UG193147"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "DTB-Owino Branch",
+            "branch_code": "UG193247"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "DTB-Kabalagala Branch",
+            "branch_code": "UG193347"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "DTB-IPS Branch",
+            "branch_code": "UG193447"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "DTB-Nakasero Branch",
+            "branch_code": "UG193547"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "DTB-Namanve Branch",
+            "branch_code": "UG193647"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "DTB-Kikuubo Branch",
+            "branch_code": "UG193747"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "bank_name": "CITI BANK UGANDA",
+    "clearing_centre": 14,
+    "branches": {
+      "branch": [
+        {
+          "@attributes": {
+            "branch_name": "",
+            "branch_code": ""
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "CITI KAMPALA",
+            "branch_code": "UG220147"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "bank_name": "HOUSING FINANCE BANK",
+    "clearing_centre": 15,
+    "branches": {
+      "branch": [
+        {
+          "@attributes": {
+            "branch_name": "",
+            "branch_code": ""
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "HOUSING FINANCE KAMPALA ROAD",
+            "branch_code": "UG230147"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "HOUSING FINANCE NAKASERO",
+            "branch_code": "UG230247"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "HOUSING FINANCE NAMUWONGO",
+            "branch_code": "UG230347"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "HOUSING FINANCE NTINDA",
+            "branch_code": "UG230447"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Housing Finance Mbarara Branch",
+            "branch_code": "UG230562"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Housing Finance Kikuubo",
+            "branch_code": "UG230647"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "HFB-Arua Branch",
+            "branch_code": "UG230754"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "HFB-Mbale Branch",
+            "branch_code": "UG230842"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Owino Branch",
+            "branch_code": "UG230947"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Garden City Branch",
+            "branch_code": "UG231047"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Kololo Branch",
+            "branch_code": "UG231147"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Lira Branch",
+            "branch_code": "UG231255"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Fort Portal Branch",
+            "branch_code": "UG231360"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "HOUSING FINANCE BANK GULU",
+            "branch_code": "UG231455"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Ndeeba Branch",
+            "branch_code": "UG231547"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Jinja Branch",
+            "branch_code": "UG231641"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Operations Branch",
+            "branch_code": "UG231747"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Najjanankumbi Branch",
+            "branch_code": "UG231847"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Tororo Branch",
+            "branch_code": "UG231942"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "HOUSING FINANCE-Tororo",
+            "branch_code": "UG231947"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Malaba Branch",
+            "branch_code": "UG232042"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "HOUSING FINANCE-Mukono Branch",
+            "branch_code": "UG232147"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "HOUSING FINANCE-Head Office",
+            "branch_code": "UG239947"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "bank_name": "KCB UGANDA LIMITED",
+    "clearing_centre": 16,
+    "branches": {
+      "branch": [
+        {
+          "@attributes": {
+            "branch_name": "",
+            "branch_code": ""
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "KCB HEAD OFFICE UGANDA FINANCE",
+            "branch_code": "UG252947"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "KCB KAMPALA ROAD",
+            "branch_code": "UG253047"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "KCB LIRA",
+            "branch_code": "UG253155"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "KCB LUWUM STREET",
+            "branch_code": "UG253247"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "KCB Bank (U)-Arua Branch",
+            "branch_code": "UG253354"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "KCB MBARARA",
+            "branch_code": "UG253462"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "KCB BEN KIWANUKA",
+            "branch_code": "UG253547"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "KCB HOIMA",
+            "branch_code": "UG253647"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "KCB Bank (U)- Hoima Branch",
+            "branch_code": "UG253655"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "KCB Bank (U)- Oasis Mall Branch",
+            "branch_code": "UG253747"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "KCB GULU",
+            "branch_code": "UG253855"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "KCB Bank (U)- Fort Portal Branch",
+            "branch_code": "UG253960"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "KCB Bank (U)-Elgon Masaba",
+            "branch_code": "UG255042"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "KCB Bank (U)-Jinja Branch",
+            "branch_code": "UG255141"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "KCB Bank (U)-Sixth Street Branch",
+            "branch_code": "UG255247"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "KCB Ndeeba",
+            "branch_code": "UG255347"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "KCB Bank (U)-Forest Mall",
+            "branch_code": "UG255447"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "KCB Bank (U)-Kikuubo",
+            "branch_code": "UG255547"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "KCB HEAD OFFICE UGANDA HR",
+            "branch_code": "UG258047"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "KCB HEADOFFICE UGANDA IT",
+            "branch_code": "UG258147"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "KCB HEADOFFICE UGANDA OPS",
+            "branch_code": "UG258247"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "KCB HEADOFFICE UGANDA RETAIL",
+            "branch_code": "UG258347"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "KCB HEADOFFICE UGANDA MD",
+            "branch_code": "UG258447"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "KCB HEADOFFICE UGANDA TREASURY",
+            "branch_code": "UG258547"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "KCB HEADOFFICE UGANDA CORPORATE",
+            "branch_code": "UG258647"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "KCB HEADOFFICE UGANDA CREDIT",
+            "branch_code": "UG258747"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "KCB HEADOFFICE UGANDA AUDIT",
+            "branch_code": "UG258847"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "KCB HEADOFFICE UGANDA RISK",
+            "branch_code": "UG258947"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "bank_name": "UNITED BANK OF AFRICA",
+    "clearing_centre": 17,
+    "branches": {
+      "branch": [
+        {
+          "@attributes": {
+            "branch_name": "",
+            "branch_code": ""
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "UNITED BANK FOR AFRICAJINJA ROAD",
+            "branch_code": "UG260147"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "UNITED BANK FOR AFRICAWILLIAM STR",
+            "branch_code": "UG260247"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "UBA-Mukono Branch",
+            "branch_code": "UG260347"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "UBA-Masaka road Branch",
+            "branch_code": "UG260447"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "UBA-Kansanga Branch",
+            "branch_code": "UG260547"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "UBA-Jinja Branch",
+            "branch_code": "UG260641"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "UBA-Mbale Branch",
+            "branch_code": "UG260742"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "UBA-Mbarara Branch",
+            "branch_code": "UG260862"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "UBA-Fortportal",
+            "branch_code": "UG260960"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "UBA- Makerere Branch",
+            "branch_code": "UG261047"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "UBA - Bugema branch",
+            "branch_code": "UG261247"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "bank_name": "FINA BANK",
+    "clearing_centre": 18,
+    "branches": {
+      "branch": [
+        {
+          "@attributes": {
+            "branch_name": "",
+            "branch_code": ""
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "FINA HEAD OFFICE",
+            "branch_code": "UG270147"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "FINA BUGANDA ROAD",
+            "branch_code": "UG271147"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "FINA NAKIVUBO",
+            "branch_code": "UG271247"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "FINA KABALE",
+            "branch_code": "UG271361"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "FINA MBARARA",
+            "branch_code": "UG271462"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "FINA OWINO",
+            "branch_code": "UG271547"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "FINA BANK INDUSTRIAL AREA",
+            "branch_code": "UG271647"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Kyaliwajjala Branch",
+            "branch_code": "UG271747"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Kiira Road Branch",
+            "branch_code": "UG271847"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Colville Street Branch",
+            "branch_code": "UG271947"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "bank_name": "ECOBANK UGANDA",
+    "clearing_centre": 19,
+    "branches": {
+      "branch": [
+        {
+          "@attributes": {
+            "branch_name": "",
+            "branch_code": ""
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "ECOBANK-Parliament Avenue Branch",
+            "branch_code": "UG290147"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "ECOBANK-Kikuubo Branch",
+            "branch_code": "UG290247"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "ECOBANK-Mukono Branch",
+            "branch_code": "UG290347"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "ECOBANK-Bombo Road Branch",
+            "branch_code": "UG290447"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "ECOBANK-Entebbe Air Port Branch",
+            "branch_code": "UG290547"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "ECOBANK-Ndeeba Branch",
+            "branch_code": "UG290647"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "ECOBANK-Oasis Mall Branch",
+            "branch_code": "UG290747"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Wandegeya Branch",
+            "branch_code": "UG290847"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Bugema Branch",
+            "branch_code": "UG290947"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Kyambogo Branch",
+            "branch_code": "UG291047"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Forest Mall Branch",
+            "branch_code": "UG291147"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Rwenzori Towers Branch",
+            "branch_code": "UG291247"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Jinja Branch",
+            "branch_code": "UG291341"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "ECO BANK-Jinja Branch",
+            "branch_code": "UG291347"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Mbarara Branch",
+            "branch_code": "UG291462"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Head Office Branch",
+            "branch_code": "UG300047"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "bank_name": "EQUITY BANK UGANDA",
+    "clearing_centre": 20,
+    "branches": {
+      "branch": [
+        {
+          "@attributes": {
+            "branch_name": "",
+            "branch_code": ""
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Equity Bank- Church House",
+            "branch_code": "UG300147"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Equity Bank-Buganda Road",
+            "branch_code": "UG300247"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Equity Bank-Katwe",
+            "branch_code": "UG300347"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Equity Bank-Kasangati",
+            "branch_code": "UG300447"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "EQUITY BANK-Kayunga Branch",
+            "branch_code": "UG300541"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Equity Bank-Kayunga",
+            "branch_code": "UG300547"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Equity Bank-Mukono",
+            "branch_code": "UG300647"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Equity Bank-Kisoro",
+            "branch_code": "UG300761"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Equity Bank-Busia",
+            "branch_code": "UG300842"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Equity Bank-Bugolobi",
+            "branch_code": "UG300947"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Equity Bank-Kajjansi",
+            "branch_code": "UG301047"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Equity Bank-Luwero",
+            "branch_code": "UG301147"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Equity Bank-Kyengera",
+            "branch_code": "UG301247"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "EQUITY FORTPORTAL",
+            "branch_code": "UG301360"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Equity Bank-Lyantonde",
+            "branch_code": "UG301362"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Equity Bank-Mbale",
+            "branch_code": "UG301442"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Equity Bank-Tororo",
+            "branch_code": "UG301542"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Equity Bank-Mityana",
+            "branch_code": "UG301647"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Equity Bank-Busiika",
+            "branch_code": "UG301747"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Equity Bank-Bukuya",
+            "branch_code": "UG301847"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Equity Bank-Adjumani",
+            "branch_code": "UG301954"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "EQUITY Adjumani Branch",
+            "branch_code": "UG301955"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Equity Bank-Kisizi",
+            "branch_code": "UG302061"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Equity Bank-Bwera",
+            "branch_code": "UG302160"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Equity Bank-Zirobwe",
+            "branch_code": "UG302247"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Equity Bank-Kiboga",
+            "branch_code": "UG302347"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "EQUITY ARUA",
+            "branch_code": "UG302354"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Equity Bank-Rushere",
+            "branch_code": "UG302562"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "EQUITY BK HOIMA BRANCH",
+            "branch_code": "UG302647"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Equity Bank-Hoima",
+            "branch_code": "UG302655"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Equity Bank-Jinja",
+            "branch_code": "UG302741"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "EQUITY BANK JINJA RD",
+            "branch_code": "UG302747"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Equity Bank-Masindi",
+            "branch_code": "UG302855"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "EQUITY BANK",
+            "branch_code": "UG302954"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Equity Bank-Lira",
+            "branch_code": "UG302955"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Equity Bank-Mubende",
+            "branch_code": "UG303047"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Equity Bank Mbarara",
+            "branch_code": "UG303147"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Equity Bank-Mbarara",
+            "branch_code": "UG303162"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Equity Bank-Market Street",
+            "branch_code": "UG303247"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Equity Bank-Venus Plaza",
+            "branch_code": "UG303347"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Equity Bank-Ndeeba",
+            "branch_code": "UG303447"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Equity Bank-Kabalagala",
+            "branch_code": "UG303547"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Equity Bank-Oasis",
+            "branch_code": "UG303647"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Equity Bank-William Street",
+            "branch_code": "UG303747"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Equity Bank-Arua Park",
+            "branch_code": "UG303847"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Equity Bank-Nakulabye",
+            "branch_code": "UG303947"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Equity Bank-New Taxi Park",
+            "branch_code": "UG304047"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Equity Bank-Kalwere",
+            "branch_code": "UG304147"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Equity Bank-Kawempe",
+            "branch_code": "UG304247"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Owino Branch",
+            "branch_code": "UG304347"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Equity Bank Wandegeya branch",
+            "branch_code": "UG304447"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Kabaale Branch",
+            "branch_code": "UG304561"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "ABC BANK-Head Office",
+            "branch_code": "UG310047"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "ABC CAPITAL BANK KAMPALA",
+            "branch_code": "UG310147"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Luwum Street Branch",
+            "branch_code": "UG310247"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Kikuubo Branch",
+            "branch_code": "UG310347"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Arua Park Branch",
+            "branch_code": "UG310447"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "bank_name": "ABC CAPITAL BANK",
+    "clearing_centre": 21,
+    "branches": {
+      "branch": [
+        {
+          "@attributes": {
+            "branch_name": "",
+            "branch_code": ""
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "ABC CAPITAL BANK Arua Park Branch",
+            "branch_code": "UG310547"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "bank_name": "EXIM BANK",
+    "clearing_centre": 22,
+    "branches": {
+      "branch": [
+        {
+          "@attributes": {
+            "branch_name": "",
+            "branch_code": ""
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "EXIM Head Office Branch",
+            "branch_code": "UG320047"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "EXIM Hannington Road Branch",
+            "branch_code": "UG320147"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "EXIM BANK KAMPALA",
+            "branch_code": "UG320247"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "EXIM BANK-Nakivubo Branch",
+            "branch_code": "UG320347"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "EXIM BANK-Kikuubo Branch",
+            "branch_code": "UG320447"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "EXIM BANK- Acacia Branch",
+            "branch_code": "UG320547"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "bank_name": "BANK OF INDIA",
+    "clearing_centre": 23,
+    "branches": {
+      "branch": [
+        {
+          "@attributes": {
+            "branch_name": "",
+            "branch_code": ""
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "BANK OF INDIA NDEEBA",
+            "branch_code": "UG340147"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "BANK OF INDIA-Bombo Rd Branch",
+            "branch_code": "UG340247"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "bank_name": "NC BANK",
+    "clearing_centre": 24,
+    "branches": {
+      "branch": [
+        {
+          "@attributes": {
+            "branch_name": "",
+            "branch_code": ""
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "NC BANK KAMPALA",
+            "branch_code": "UG350147"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "NC BANK-Village MAll Branch",
+            "branch_code": "UG350247"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "NC BANK-Market Plaza Branch",
+            "branch_code": "UG350347"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "bank_name": "CBA UGANDA",
+    "clearing_centre": 25,
+    "branches": {
+      "branch": [
+        {
+          "@attributes": {
+            "branch_name": "",
+            "branch_code": ""
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "CBA-Nakasero Branch",
+            "branch_code": "UG360147"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "CBA -Village Mall Branch",
+            "branch_code": "UG360247"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "bank_name": "FINANCE TRUST BANK",
+    "clearing_centre": 26,
+    "branches": {
+      "branch": [
+        {
+          "@attributes": {
+            "branch_name": "",
+            "branch_code": ""
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Finance Trust Bank Head Office Bra",
+            "branch_code": "UG370147"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Finance Trust Bank Central Branch",
+            "branch_code": "UG370247"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Finance Trust Bank Kitintale Branch",
+            "branch_code": "UG370347"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Finance Trust Bank Kalerwe Branch",
+            "branch_code": "UG370447"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Finance Trust Bank Kampala Road Bra",
+            "branch_code": "UG370547"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Finance Trust Bank Nansana Branch",
+            "branch_code": "UG370647"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Finance Trust Bank Kikuubo Branch",
+            "branch_code": "UG370747"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Finance Trust Bank Mukono Branch",
+            "branch_code": "UG370847"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Finance Trust Bank Entebbe Branch",
+            "branch_code": "UG370947"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Finance Trust Bank Nakivubo Branch",
+            "branch_code": "UG371047"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Finance Trust Bank Katwe Branch",
+            "branch_code": "UG371147"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Finance Trust Bank Kalangala Branc",
+            "branch_code": "UG371234"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Finance Trust Bank Nateete Branch",
+            "branch_code": "UG371347"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Finance Trust Bank Masaka Branch",
+            "branch_code": "UG371434"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Finance Trust Bank Owino Branch",
+            "branch_code": "UG371547"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Finance Trust Bank Ishaka Branch",
+            "branch_code": "UG371662"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Finance Trust Bank Mbarara Branch",
+            "branch_code": "UG371762"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Finance Trust Bank Kabarole Branch",
+            "branch_code": "UG371860"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Finance Trust Bank Kamwenge Branc",
+            "branch_code": "UG371960"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Finance Trust Bank Ntungamo Branch",
+            "branch_code": "UG372062"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Finance Trust Bank Mbale Branch",
+            "branch_code": "UG372142"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Finance Trust Bank Busia Branch",
+            "branch_code": "UG372241"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Finance Trust Bank Pallisa Branc",
+            "branch_code": "UG372342"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Finance Trust Bank Soroti Branch",
+            "branch_code": "UG372442"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Finance Trust Bank Kumi Branch",
+            "branch_code": "UG372542"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Finance Trust Bank Tororo Branch",
+            "branch_code": "UG372642"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Finance Trust Bank Kapchorwa Branc",
+            "branch_code": "UG372742"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Finance Trust Bank Bugiri Branch",
+            "branch_code": "UG372841"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Finance Trust Bank Iganga Branch",
+            "branch_code": "UG372941"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Finance Trust Bank Jinja Branch",
+            "branch_code": "UG373041"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Finance Trust Bank Lugazi Branch",
+            "branch_code": "UG373141"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Finance Trust Bank Kayunga Branch",
+            "branch_code": "UG373241"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Finance Trust Bank Kamuli Branch",
+            "branch_code": "UG373341"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Finance Trust Bank Arua Branch",
+            "branch_code": "UG373454"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Lwengo Branch",
+            "branch_code": "UG373534"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Gomba Branch",
+            "branch_code": "UG373647"
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "Kijura Branch",
+            "branch_code": "UG373760"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "bank_name": "POST BANK UGANDA LIMITED",
+    "clearing_centre": 27,
+    "branches": {
+      "branch": [
+        {
+          "@attributes": {
+            "branch_name": "",
+            "branch_code": ""
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "POST BANK UGANDA LIMITED",
+            "branch_code": "UG560147"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "bank_name": "OPPORTUNITY BANK UGANDA LIMITED",
+    "clearing_centre": 28,
+    "branches": {
+      "branch": [
+        {
+          "@attributes": {
+            "branch_name": "",
+            "branch_code": ""
+          }
+        },
+        {
+          "@attributes": {
+            "branch_name": "OPPORTUNITY BANK UGANDA LIMITED",
+            "branch_code": "UG610147"
+          }
+        }
+      ]
+    }
+  }
+]
